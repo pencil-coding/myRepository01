@@ -1,0 +1,5 @@
+class word{
+	main{
+		sout("");
+	}
+}
